@@ -6,3 +6,9 @@ obj/
 *.dbmdl
 *.log
 *.swp
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.wmv
